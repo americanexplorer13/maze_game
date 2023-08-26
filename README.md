@@ -1,4 +1,5 @@
-# maze_game
-Short game for a NSU
+# Maze Game
+Небольшая игра, созданная в рамках курса НГУ, по обучению ООП
 
-This is the basic game for NSU project to check out my skills in the OOP structures.
+# Как установить
+А я бог его знает, пробуйте, игра вроде сломана так что...
